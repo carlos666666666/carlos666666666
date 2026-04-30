@@ -14,15 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>¡Buenas GitHub!</h1>
-<p>Soy Carlos, un estudiante de Desarrollo de Aplicaciones Multiplataforma. Tengo gran interés por la informática y electrónica, busco un puesto de trabajo dedicado al desarrollo de software o de código embebido</p>
-
-<p>Tecnologías conocidas (hasta la fecha):</p>
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,bootstrap)](https://skillicons.dev)
-<p>Tecnologías que me gustaría aprender en un futuro:</p>
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,arch,arduino,dotnet,godot,py)](https://skillicons.dev)
-
-
 <h1 align="center">Buenas 👋  soy Carlos García </h1> 
 
 <br>
@@ -39,7 +30,7 @@ Here are some ideas to get you started:
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,css,html,js,xml,dtd,mysql,git,github,eclipse,vscode,bash,linux,bootstrap&perline=12" />
+    <img src="https://skillicons.dev/icons?i=java,css,html,js,mysql,git,github,eclipse,vscode,bash,linux,bootstrap&perline=12" />
   </a>
 </p>
 
@@ -47,7 +38,7 @@ Here are some ideas to get you started:
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,php,flutter,py,dotnet,nodejs,docker,godot&perline=12" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,php,flutter,py,dart,dotnet,nodejs,docker,godot&perline=12" />
   </a>
 </p>
 
